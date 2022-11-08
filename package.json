@@ -1,0 +1,19 @@
+{
+  "name": "NETHERITE",
+  "version": "1.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "urFate",
+  "license": "MIT",
+  "dependencies": {
+    "3": "^2.1.0",
+    "mineflayer": "^4.1.0",
+    "mineflayer-pathfinder": "^1.10.0",
+    "nodejs": "^0.0.0",
+    "vec": "^0.0.1",
+    "vec3": "^0.1.7"
+  }
+}
